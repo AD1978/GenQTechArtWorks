@@ -8,7 +8,7 @@
   "artworks": [
     {
       "id": 1,
-      "imageUrl": "/asset/HiddenBeauty.jpeg",
+      "imageUrl": "/asset/HiddenBeauty1.jpeg",
       "artist": "Sampa Paul",
       "title": "Hidden Beauty - 1",
       "medium": "Mixed media on canvas",
@@ -60,59 +60,59 @@
       "style": "Realism",
       "size": "Large",
       "layout": "Landscape"
+    },
+    {
+      "id": 6,
+      "imageUrl": "/asset/HiddenBeauty6.jpeg",
+      "artist": "Sampa Paul",
+      "title": "Hidden Beauty - 6",
+      "medium": "Mixed media on canvas",
+      "dimensions": "48\" x 60\"",
+      "style": "Realism",
+      "size": "Large",
+      "layout": "Landscape"
+    },
+    {
+      "id": 7,
+      "imageUrl": "/asset/HiddenBeauty7.jpeg",
+      "artist": "Sampa Paul",
+      "title": "Hidden Beauty - 7",
+      "medium": "Mixed media on canvas",
+      "dimensions": "48\" x 48\"",
+      "style": "Realism",
+      "size": "Large",
+      "layout": "Landscape"
+    },
+    {
+      "id": 8,
+      "imageUrl": "/asset/HiddenBeauty8.jpeg",
+      "artist": "Sampa Paul",
+      "title": "Hidden Beauty - 8",
+      "medium": "Mixed media on canvas",
+      "dimensions": "60\" x 40\"",
+      "style": "Realism",
+      "size": "Large",
+      "layout": "Landscape"
+    },
+    {
+      "id": 9,
+      "imageUrl": "/asset/HiddenBeauty9.jpeg",
+      "artist": "Sampa Paul",
+      "title": "Hidden Beauty - 9",
+      "medium": "Mixed media on canvas",
+      "dimensions": "48\" x 72\"",
+      "style": "Realism",
+      "size": "Large",
+      "layout": "Landscape"
     }
     // {
-    //   "id": 6,
-    //   "imageUrl": "/asset/HiddenBeauty.jpeg",
-    //   "artist": "Manu Parekh",
-    //   "title": "Evening Prayer",
-    //   "medium": "Acrylic on canvas",
-    //   "dimensions": "40\" x 80\"",
-    //   "style": "Expressionism",
-    //   "size": "Large",
-    //   "layout": "Landscape"
-    // },
-    // {
-    //   "id": 7,
-    //   "imageUrl": "/asset/HiddenBeauty2.jpeg",
-    //   "artist": "Anjolie Ela Menon",
-    //   "title": "Mystic Woman",
-    //   "medium": "Oil on canvas",
-    //   "dimensions": "40\" x 60\"",
-    //   "style": "Abstract",
-    //   "size": "Large",
-    //   "layout": "Portrait"
-    // },
-    // {
-    //   "id": 8,
-    //   "imageUrl": "/asset/HiddenBeauty3.jpeg",
-    //   "artist": "Jamini Roy",
-    //   "title": "Village Scene",
-    //   "medium": "Acrylic on board",
-    //   "dimensions": "30\" x 40\"",
-    //   "style": "Realism",
-    //   "size": "Medium",
-    //   "layout": "Square"
-    // },
-    // {
-    //   "id": 9,
-    //   "imageUrl": "/asset/HiddenBeauty4.jpeg",
-    //   "artist": "M F Husain",
-    //   "title": "Horse Dance",
-    //   "medium": "Acrylic on canvas",
-    //   "dimensions": "50\" x 70\"",
-    //   "style": "Expressionism",
-    //   "size": "Large",
-    //   "layout": "Landscape"
-    // },
-    // {
     //   "id": 10,
-    //   "imageUrl": "/asset/HiddenBeauty5.jpeg",
-    //   "artist": "Sakti Burman",
-    //   "title": "Dreamer",
-    //   "medium": "Watercolour on paper",
+    //   "imageUrl": "/asset/HiddenBeauty10.jpeg",
+    //   "artist": "Sampa Paul",
+    //   "title": "Hidden Beauty - 10",
+    //   "medium": "Mixed media on canvas",
     //   "dimensions": "20\" x 30\"",
-    //   "style": "Surrealism",
+    //   "style": "Realism",
     //   "size": "Small",
     //   "layout": "Portrait"
     // },
