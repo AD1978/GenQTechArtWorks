@@ -1,7 +1,11 @@
 id,imageUrl,artist,title,medium,dimensions,style,size,layout
-1,/asset/HiddenBeauty2.jpeg,,Hidden Beauty - 1,"Mixed media on canvas","42"" x 72""",Realism,Large,Portrait
+1,/asset/HiddenBeauty1.jpeg,,Hidden Beauty - 1,"Mixed media on canvas","42"" x 72""",Realism,Large,Portrait
 2,/asset/HiddenBeauty2.jpeg,,Hidden Beauty - 2,"Mixed media on canvas","42"" x 72""",Realism,Large,Landscape
 3,/asset/HiddenBeauty3.jpeg,,Hidden Beauty - 3,Mixed media on canvas,"36"" x 48""",Realism,Medium,Landscape
 4,/asset/HiddenBeauty4.jpeg,,Hidden Beauty - 4,"Mixed media on canvas","48"" x 60""",Realism,Large,Landscape
 5,/asset/HiddenBeauty5.jpeg,,Hidden Beauty - 5,"Mixed media on canvas","48"" x 72""",Realism,Large,Landscape
-
+6,/asset/HiddenBeauty6.jpeg,,Hidden Beauty - 6,"Mixed media on canvas","48"" x 60""",Realism,Large,Landscape
+7,/asset/HiddenBeauty7.jpeg,,Hidden Beauty - 7,"Mixed media on canvas","48"" x 48""",Realism,Medium,Square
+8,/asset/HiddenBeauty8.jpeg,,Hidden Beauty - 8,Mixed media on canvas,"48"" x 48""",Realism,Medium,Square
+9,/asset/HiddenBeauty8.jpeg,,Hidden Beauty - 9,"Mixed media on canvas","48"" x 72""",Realism,Large,Landscape
+10,/asset/HiddenBeauty10.jpeg,,Hidden Beauty - 10,"Mixed media on canvas","48"" x 72""",Realism,Large,Landscape
